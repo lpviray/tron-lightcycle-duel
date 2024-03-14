@@ -3,6 +3,8 @@ This is a 2 player game heavily inspired by the cult classic Tron franchise, and
 
 The game can be played here at: [https://rawcdn.githack.com/lpviray/tron-lightcycle-duel/04ca862506e92532d49d9cf905e79d85c385d6ee/Tron-Lightcycle-Duel.html](https://rawcdn.githack.com/lpviray/tron-lightcycle-duel/04ca862506e92532d49d9cf905e79d85c385d6ee/Tron-Lightcycle-Duel.html)
 
+The official project page the game was developed in can be viewed here at: [https://scratch.mit.edu/projects/970518709/](https://scratch.mit.edu/projects/970518709/)
+
 Touching the opponent's light trail, your own light trail, or the edge of the arena results in your defeat. However, directly crashing into your opponent or if you both happen to hit the edge at the same time results in a draw. By default, both lightcycles will continue heading in the direction it's facing endlessly.<br/>
 
 Player 1 controls their lightcycle using the WASD keys, with W = turn upwards, A = turn left, S = turn downwards, and D = turn right.<br/>
