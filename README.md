@@ -17,7 +17,7 @@ Player 2 controls their lightcycle using the arrow keys, with up arrow= turn upw
  • Interactive buttons for starting and stopping a game<br/>
  • Music from TRON: Legacy by Daft Punk<br/>
 
- # Technologies Used
+# Technologies Used
  • Scratch 3<br/>
  • HTML5<br/>
  • GitHub<br/>
